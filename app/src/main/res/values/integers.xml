@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="http_connection_timeout">15000</integer>
+    <integer name="http_socket_timeout">10000</integer>
+    <integer name="http_request_timeout">10000</integer>
+    <integer name="http_read_timeout">10000</integer>
+    <integer name="http_write_timeout">10000</integer>
+</resources>

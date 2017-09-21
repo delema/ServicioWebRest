@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ServicioWebRest!</string>
+    <string name="app_name">Android Servicio Web Rest</string>
+    <string name="procesando">Procesando!</string>
+    <string name="procesado">Procesado!</string>
+    <string name="cancelado">Cancelado!</string>
+    <string name="error">Error!</string>
+</resources>
